@@ -1,7 +1,5 @@
 # RestrauntApp using Django
 
-This app is live [here]() <br>
-
 This project is based on an assignment of 
 Object Oriented Software Engineering
 
